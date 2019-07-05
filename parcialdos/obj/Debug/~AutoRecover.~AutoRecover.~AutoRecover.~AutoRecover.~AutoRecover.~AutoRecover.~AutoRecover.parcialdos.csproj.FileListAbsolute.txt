@@ -1,0 +1,33 @@
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\bin\Debug\parcialdos.exe.config
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\bin\Debug\parcialdos.exe
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\bin\Debug\parcialdos.pdb
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\parcialdos.AcercaDe.resources
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\parcialdos.Form1.resources
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\parcialdos.Properties.Resources.resources
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.GenerateResource.cache
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\parcialdos.exe
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\parcialdos.pdb
+C:\Users\gustavo\Documents\Visual Studio 2019\Backup Files\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csprojAssemblyReference.cache
+F:\parcialdos\bin\Debug\parcialdos.exe.config
+F:\parcialdos\bin\Debug\parcialdos.exe
+F:\parcialdos\bin\Debug\parcialdos.pdb
+F:\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csprojAssemblyReference.cache
+F:\parcialdos\obj\Debug\parcialdos.AcercaDe.resources
+F:\parcialdos\obj\Debug\parcialdos.Form1.resources
+F:\parcialdos\obj\Debug\parcialdos.Properties.Resources.resources
+F:\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.GenerateResource.cache
+F:\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.CoreCompileInputs.cache
+F:\parcialdos\obj\Debug\parcialdos.exe
+F:\parcialdos\obj\Debug\parcialdos.pdb
+C:\Users\ACER\Documents\parcialdos\bin\Debug\parcialdos.exe.config
+C:\Users\ACER\Documents\parcialdos\bin\Debug\parcialdos.exe
+C:\Users\ACER\Documents\parcialdos\bin\Debug\parcialdos.pdb
+C:\Users\ACER\Documents\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\parcialdos\obj\Debug\parcialdos.AcercaDe.resources
+C:\Users\ACER\Documents\parcialdos\obj\Debug\parcialdos.Form1.resources
+C:\Users\ACER\Documents\parcialdos\obj\Debug\parcialdos.Properties.Resources.resources
+C:\Users\ACER\Documents\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\parcialdos\obj\Debug\~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.~AutoRecover.parcialdos.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\parcialdos\obj\Debug\parcialdos.exe
+C:\Users\ACER\Documents\parcialdos\obj\Debug\parcialdos.pdb
